@@ -16,6 +16,7 @@
   <ItemGroup>
     <Folder Include="ViewModels\" />
     <Folder Include="ViewComponents\" />
+    <Folder Include="wwwroot\Uploads\" />
   </ItemGroup>
 
 </Project>

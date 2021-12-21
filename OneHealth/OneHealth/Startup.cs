@@ -51,6 +51,12 @@ namespace OneHealth
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapAreaControllerRoute(
+                    name:"area",
+                    areaName:"admin",
+                    pattern:"admin/{controller=Home}/{action=Index}/{id?}"
+
+                    );
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

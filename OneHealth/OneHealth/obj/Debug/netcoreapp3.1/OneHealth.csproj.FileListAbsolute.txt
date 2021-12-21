@@ -153,3 +153,13 @@ C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Raz
 C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Views\News\Index.cshtml.g.cs
 C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Views\Doctor\Index.cshtml.g.cs
 C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Doctor\Index.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Doctor\CreateCategory.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Doctor\Update.cshtml.g.cs
+C:\Users\FX505GT\Desktop\ASP.NET\OneHealth\OneHealth\obj\Debug\netcoreapp3.1\Razor\Areas\admin\Views\Doctor\Create.cshtml.g.cs
